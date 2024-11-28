@@ -1,1 +1,1 @@
-# malted-barley-service
+# malted-barley-api
